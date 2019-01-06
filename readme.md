@@ -16,13 +16,15 @@ Find out more on the report, section 3
 
 ### Use:
 
-Compile:
+Compile (in src):
 ```
-make
+javac *.java
 ```
 
 Execute:
 ```
-until finished
+java Prog [arg]
 ```
+If there is no arg, the default algorithm used is Havel-Hakimi.
+Otherwise, Molloy-Reed is used.
 
