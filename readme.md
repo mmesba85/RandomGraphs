@@ -10,7 +10,7 @@ Generating random graphs based on degrees distribution.
 ## Algorithms:
 
 * Molloy-Reed Algorithm
-* Havel-Hakimi Algorithme
+* Havel-Hakimi Algorithm
 
 Find out more on the report, section 3
 
